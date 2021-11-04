@@ -23,3 +23,5 @@ document.getElementById("myP").innerHTML = "This is my first paragraph.";
 
 console.log(people);
 
+let text = "Hello World!";
+document.getElementById("lg").innerHTML = text.length;
