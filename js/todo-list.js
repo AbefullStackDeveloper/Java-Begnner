@@ -1,4 +1,4 @@
-/ pull html elements into javascript
+// pull html elements into javascript
 const myInput = document.querySelector("#my-id");
 console.log(myInput);
 const myButton = document.querySelectorAll(".my-button")[0];
